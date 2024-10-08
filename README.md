@@ -1,11 +1,11 @@
 # PII Detection and Redaction with LLM
 
-This project implements a system for detecting and redacting Personally Identifiable Information (PII) using a fine-tuned BERT model. The project consists of data preparation, model training, and inference.
+This project implements a system for detecting and redacting Personally Identifiable Information (PII) using a fine-tuned **BERT** model. The project consists of data preparation, model training, and inference.
 
 ## Environment Setup
 
 1. **Create a Python environment:**  
-   Create a new environment named redaction-env using Python.
+   Create a new environment named **redaction-env** using Python.
 
 2. **Install required packages:**  
    Install the required libraries by running the command:
@@ -15,26 +15,26 @@ This project implements a system for detecting and redacting Personally Identifi
 ## Data Preparation
 
 1. **Generate the dataset:**  
-   Run the create_dataset.py script to create two CSV files: training_data.csv and validation_data.csv.
+   Run the **create_dataset.py** script to create two CSV files: **training_data.csv** and **validation_data.csv**.
 
 ## Model Training
 
 1. **Fine-tune the BERT model:**  
-   Execute the finetune_model.py script, which preprocesses the data, creates data loaders for PyTorch, and fine-tunes the BERT model. The trained model will be saved in the results folder.
+   Execute the **finetune_model.py** script, which preprocesses the data, creates data loaders for **PyTorch**, and fine-tunes the **BERT** model. The trained model will be saved in the **results** folder.
 
 2. **Training Logs:**  
-   The training process logs will be stored in training_log.txt.
+   The training process logs will be stored in **training_log.txt**.
 
 ## Model Validation and Inference
 
 1. **Validate the model:**  
-   Use the validate_model.py script to read the trained model and perform redaction on the validation data. The results will be stored in redacted_validation.csv, including the original text, redacted text, and inference time.
+   Use the **validate_model.py** script to read the trained model and perform redaction on the validation data. The results will be stored in **redacted_validation.csv**, including the original text, redacted text, and inference time.
 
 ## Model Requirements
 
 To run the inference successfully, ensure the following file is present:
 
-- results/best_model_state.bin - This file should be located at the root level inside the results folder.  
+- **results/best_model_state.bin** - This file should be located at the root level inside the **results** folder.  
   This file can be downloaded using the following [Google Drive link](https://drive.google.com/file/d/1u1Y4gFwciDA0Lwk27tuVgjRGDu4xWZxd/view?usp=sharing).
 
 ## PII Types
@@ -47,7 +47,7 @@ The system is designed to recognize the following types of PII:
 - **PHONE_NUMBER:** Fake phone numbers.
 - **US_SSN:** Social Security Numbers.
 
-Each type of PII is generated using the fake library to ensure the variety and relevance of the data.
+Each type of PII is generated using the **fake** library to ensure the variety and relevance of the data.
 
 ## Future Prospects
 

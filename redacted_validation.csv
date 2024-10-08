@@ -1,0 +1,101 @@
+original_sentence,redacted_sentence,inference_time
+The IP 45.130.103.189 is flagged for unusual activity, the ip <IP_ADDRESS> is flagged for unusual activity ,0.06107592582702637
+4942086586196612  was charged for the recent purchase,<CREDIT_CARD> was charged for the recent purchase ,0.04733586311340332
+You need to verify 3518152681759096 as your payment method, you need to verify <CREDIT_CARD> as your payment method ,0.04103493690490723
+26.189.168.221 The IP  is flagged for unusual activity, <IP_ADDRESS> the ip is flagged for unusual activity ,0.03998112678527832
+The system recorded 191.178.103.233 as the source of the connection, the system recorded <IP_ADDRESS> as the source of the connection ,0.03992104530334473
+180046363047742 The system flagged  for security reasons, <CREDIT_CARD> the system flagged for security reasons ,0.03877711296081543
+Access was granted to 17.24.192.148, access was granted to <IP_ADDRESS> ,0.0435490608215332
+The IP 50.110.225.106 is flagged for unusual activity, the ip <IP_ADDRESS> is flagged for unusual activity ,0.04136490821838379
+Call us at (294)799-8511x460 for more information, call us at <PHONE_NUMBER> for more information ,0.04746198654174805
+179-42-2790 Is  correct for the records, <US_SSN> is correct for the records ,0.04065990447998047
+Someone tried to access the account using 397-86-8759, someone tried to access the account using <US_SSN> ,0.0616002082824707
+Call us at 477-689-9418x1701 for more information, call us at <PHONE_NUMBER> for more information ,0.05042576789855957
+A transaction was attempted using 4598550073881256,<CREDIT_CARD> a transaction was attempted using <CREDIT_CARD> ,0.04904007911682129
+The system will send an email to saracosta@example.org , the system will send an email to <EMAIL_ADDRESS> ,0.04165911674499512
+753-370-7980x5456 I received a message from  earlier, <PHONE_NUMBER> i received a message from earlier ,0.0511012077331543
+The call came from (515)249-7914, the call came from <PHONE_NUMBER> ,0.051734209060668945
+637-40-0072 The system flagged  for further verification, <US_SSN> the system flagged for further verification ,0.045658111572265625
+6011081961049669 A transaction was attempted using, <CREDIT_CARD> a transaction was attempted using ,0.04462695121765137
+The system flagged 4789058734591073 for security reasons, the system flagged <CREDIT_CARD> for security reasons ,0.04511117935180664
+(710)398-5924x59557  is unreachable at the moment, <PHONE_NUMBER> is unreachable at the moment ,0.04006791114807129
+The call came from (771)476-0168x1564, the call came from <PHONE_NUMBER> ,0.0565187931060791
+4217149587855  was charged for the recent purchase,<CREDIT_CARD> was charged for the recent purchase ,0.056089162826538086
+The IP 100.11.30.147 is flagged for unusual activity, the ip <IP_ADDRESS> is flagged for unusual activity ,0.04407024383544922
+4708695790494136 The system flagged  for security reasons, <CREDIT_CARD> the system flagged for security reasons ,0.0432281494140625
+Please enter the last four digits of 087-30-7586 , please enter the last four digits of <US_SSN> ,0.0435948371887207
+"jasminegomez@example.net The email  seems incorrect, please recheck"," <EMAIL_ADDRESS> the email seems incorrect, please recheck ",0.05946183204650879
+I received a message from 765.219.4368x914 earlier, i received a message from <PHONE_NUMBER> earlier ,0.05882596969604492
+Is 717-33-7180 correct for the records, is <US_SSN> correct for the records ,0.051438093185424805
+You can reach the support team via jasonthompson@example.net,<EMAIL_ADDRESS> you can reach the support team via <EMAIL_ADDRESS>,0.06142711639404297
+452-99-4493  was used for the application, <US_SSN> was used for the application ,0.04885077476501465
+ terrycaitlin@example.net received a notification about the update, <EMAIL_ADDRESS> received a notification about the update ,0.04306983947753906
+Please enter the last four digits of 620-18-4147 , please enter the last four digits of <US_SSN> ,0.04507112503051758
+3549658531211636 A transaction was attempted using, <CREDIT_CARD> a transaction was attempted using ,0.05159616470336914
+Please enter the last four digits of 868-06-7728, please enter the last four digits of <US_SSN> ,0.04333972930908203
+ jasonhenson@example.org received a notification about the update, <EMAIL_ADDRESS> received a notification about the update ,0.05896186828613281
+5114981510234951  was charged for the recent purchase, <CREDIT_CARD> was charged for the recent purchase ,0.04589724540710449
+We could not deliver the message to xwalters@example.com, we could not deliver the message to <EMAIL_ADDRESS> ,0.0444488525390625
+The call came from 882-664-7509, the call came from <PHONE_NUMBER> ,0.046113014221191406
+Is 254-71-0963 correct for the records, is <US_SSN> correct for the records ,0.05850577354431152
+ schneiderdarryl@example.org received a notification about the update, <EMAIL_ADDRESS> received a notification about the update ,0.0489048957824707
+The system flagged 4683137706533854 for security reasons, the system flagged <CREDIT_CARD> for security reasons ,0.06337904930114746
+A transaction was attempted using 3550724304182333,<CREDIT_CARD> a transaction was attempted using <CREDIT_CARD> ,0.043903350830078125
+563.307.3840x9572 Is  still your contact number, <PHONE_NUMBER> is still your contact number ,0.05323004722595215
+Call us at 332-778-5389x0041 for more information, call us at <PHONE_NUMBER> for more information ,0.052762746810913086
+The call came from 249-454-5269 , the call came from <PHONE_NUMBER> ,0.05244612693786621
+36687619526256  seems invalid please check again,<CREDIT_CARD> seems invalid please check again ,0.04552173614501953
+I registered with zmorris@example.net for this service, i registered with <EMAIL_ADDRESS> for this service ,0.04458475112915039
+The system will send an email to nathan54@example.com , the system will send an email to <EMAIL_ADDRESS> ,0.05756807327270508
+The system recorded 187.156.89.195 as the source of the connection, the system recorded <IP_ADDRESS> as the source of the connection ,0.045925140380859375
+573970883613 was charged for the recent purchase,<CREDIT_CARD> was charged for the recent purchase ,0.045057058334350586
+Can you please share the last four digits of 6589285981784484 ,<CREDIT_CARD> can you please share the last four digits of <CREDIT_CARD> ,0.05502915382385254
+Please enter the last four digits of 775-56-3269 , please enter the last four digits of <US_SSN> ,0.052108049392700195
+ 139.255.29.139 was used to access the server, <IP_ADDRESS> was used to access the server ,0.05209183692932129
+480-66-8305  is needed to process the form, <US_SSN> is needed to process the form ,0.045220136642456055
+Please enter the last four digits of 737-28-9839 , please enter the last four digits of <US_SSN> ,0.05341005325317383
+We could not deliver the message to igoodman@example.net, we could not deliver the message to <EMAIL_ADDRESS> ,0.045020103454589844
+028-56-5768  is needed to process the form, <US_SSN> is needed to process the form ,0.05813908576965332
+The call came from 713-629-7210x532, the call came from <PHONE_NUMBER> ,0.05815315246582031
+Access was granted to 64.23.27.18, access was granted to <IP_ADDRESS> ,0.05416703224182129
+150.115.195.90 Access was granted to, <IP_ADDRESS> access was granted to ,0.05397987365722656
+Can you please share the last four digits of 4720764211040 ,<CREDIT_CARD> can you please share the last four digits of <CREDIT_CARD> ,0.05077981948852539
+71.116.52.65 The IP  is flagged for unusual activity, <IP_ADDRESS> the ip is flagged for unusual activity ,0.04625988006591797
+81.240.13.184 The IP  is flagged for unusual activity, <IP_ADDRESS> the ip is flagged for unusual activity ,0.04606223106384277
+fowlerleslie@example.net  received a notification about the update, <EMAIL_ADDRESS> received a notification about the update ,0.059851884841918945
+The system will send an email to linda45@example.net , the system will send an email to <EMAIL_ADDRESS> ,0.046884775161743164
+ 400-55-5426 is needed to process the form, <US_SSN> is needed to process the form ,0.04592776298522949
+Please verify if 148.236.83.223 is your IP address, please verify if <IP_ADDRESS> is your ip address ,0.04734516143798828
+You can reach the support team via hansenphilip@example.org ,<EMAIL_ADDRESS> you can reach the support team via <EMAIL_ADDRESS> ,0.05374288558959961
+2700047805242773 A transaction was attempted using, <CREDIT_CARD> a transaction was attempted using ,0.045324087142944336
+"aaronbowman@example.org The email  seems incorrect, please recheck"," <EMAIL_ADDRESS> the email seems incorrect, please recheck ",0.047263145446777344
+You can reach the support team via eterry@example.org,<EMAIL_ADDRESS> you can reach the support team via <EMAIL_ADDRESS> ,0.047456979751586914
+196.55.136.78 Please verify if  is your IP address, <IP_ADDRESS> please verify if is your ip address ,0.06085515022277832
+729-65-3572 The system flagged  for further verification, <US_SSN> the system flagged for further verification ,0.0550990104675293
+ 30562474727982 was charged for the recent purchase,<CREDIT_CARD> was charged for the recent purchase ,0.04817509651184082
+The system recorded 197.88.100.141 as the source of the connection, the system recorded <IP_ADDRESS> as the source of the connection ,0.047818899154663086
+jeffreyjohnson@example.org I registered with  for this service, <EMAIL_ADDRESS> i registered with for this service ,0.04600811004638672
+The system recorded 188.59.242.240 as the source of the connection, the system recorded <IP_ADDRESS> as the source of the connection ,0.06596994400024414
+395-39-5625 The system flagged  for further verification, <US_SSN> the system flagged for further verification ,0.05134391784667969
+The system flagged 213121224571064 for security reasons, the system flagged <CREDIT_CARD> for security reasons ,0.06290674209594727
+ 280-34-7774 was used for the application, <US_SSN> was used for the application ,0.05482196807861328
+Call us at 879.403.1408x73935 for more information, call us at <PHONE_NUMBER> for more information ,0.05577492713928223
+Please verify if 169.49.53.200 is your IP address, please verify if <IP_ADDRESS> is your ip address ,0.045720815658569336
+ 326.683.1724 will be used to contact you, <PHONE_NUMBER> will be used to contact you ,0.056385040283203125
+18.194.25.230 The IP  is flagged for unusual activity, <IP_ADDRESS> the ip is flagged for unusual activity ,0.0530240535736084
+4746513933030 A transaction was attempted using, <CREDIT_CARD> a transaction was attempted using ,0.054766178131103516
+001-248-268-5872x8072  will be used to contact you, <PHONE_NUMBER> will be used to contact you ,0.04889512062072754
+97.191.53.64 Please verify if  is your IP address, <IP_ADDRESS> please verify if is your ip address ,0.04614901542663574
+340665190431121 You need to verify  as your payment method, <CREDIT_CARD> you need to verify as your payment method ,0.054171085357666016
+The IP 49.1.50.144 is flagged for unusual activity, the ip <IP_ADDRESS> is flagged for unusual activity ,0.053854942321777344
+4951882281306 A transaction was attempted using, <CREDIT_CARD> a transaction was attempted using ,0.048702239990234375
+ 509.608.0594 will be used to contact you, <PHONE_NUMBER> will be used to contact you ,0.05624508857727051
+fkim@example.org You can reach the support team via, <EMAIL_ADDRESS> you can reach the support team via ,0.05343198776245117
+ 782-65-7429 was used for the application, <US_SSN> was used for the application ,0.05483222007751465
+The IP 124.69.43.214 is flagged for unusual activity, the ip <IP_ADDRESS> is flagged for unusual activity ,0.054731130599975586
+A transaction was attempted using 4876363537297151616,<CREDIT_CARD> a transaction was attempted using <CREDIT_CARD> ,0.055368900299072266
+387-69-5371 The system flagged  for further verification, <US_SSN> the system flagged for further verification ,0.04822087287902832
+Please verify if 166.195.40.51 is your IP address, please verify if <IP_ADDRESS> is your ip address ,0.05760598182678223
+763-641-0951x59100 Is  still your contact number, <PHONE_NUMBER> is still your contact number ,0.059554100036621094
+Access was granted to 169.1.118.157 , access was granted to <IP_ADDRESS> ,0.05454897880554199
+579.872.9464x6846 I received a message from  earlier, <PHONE_NUMBER> i received a message from earlier ,0.0782320499420166

@@ -1,0 +1,70 @@
+
+Epoch 1, Train Loss: 0.4642220041155815, Train Accuracy: 0.4076577838322912
+Epoch 1, Validation Loss: 0.08694215305149555, Validation Accuracy: 0.4088124100991748
+Current Learning Rate: 4.9e-05
+Epoch 2, Train Loss: 0.0627790030837059, Train Accuracy: 0.4998154075631415
+Epoch 2, Validation Loss: 0.05438372399657965, Validation Accuracy: 0.6130077030812325
+Current Learning Rate: 4.8e-05
+Epoch 3, Train Loss: 0.03497746139764786, Train Accuracy: 0.7678566487641296
+Epoch 3, Validation Loss: 0.037452437449246645, Validation Accuracy: 0.7922550439094558
+Current Learning Rate: 4.7e-05
+Epoch 4, Train Loss: 0.015654638465493916, Train Accuracy: 0.9074420752576511
+Epoch 4, Validation Loss: 0.03413853934034705, Validation Accuracy: 0.8617136043606632
+Current Learning Rate: 4.600000000000001e-05
+Epoch 5, Train Loss: 0.012244306597858667, Train Accuracy: 0.9358609513831333
+Epoch 5, Validation Loss: 0.028938429546542466, Validation Accuracy: 0.8645170906200317
+Current Learning Rate: 4.5e-05
+Epoch 6, Train Loss: 0.010810226993635296, Train Accuracy: 0.9422506688357899
+Epoch 6, Validation Loss: 0.02935452456586063, Validation Accuracy: 0.8664014592323415
+Current Learning Rate: 4.4000000000000006e-05
+Epoch 7, Train Loss: 0.010402815658599138, Train Accuracy: 0.9455930008432945
+Epoch 7, Validation Loss: 0.02528884680941701, Validation Accuracy: 0.8683009690362631
+Current Learning Rate: 4.3e-05
+Epoch 8, Train Loss: 0.00985222401097417, Train Accuracy: 0.9455593879345663
+Epoch 8, Validation Loss: 0.025408938992768526, Validation Accuracy: 0.8673205768794003
+Current Learning Rate: 4.2e-05
+Epoch 9, Train Loss: 0.008995185866951942, Train Accuracy: 0.9444881674062384
+Epoch 9, Validation Loss: 0.021448938408866525, Validation Accuracy: 0.8741833219774398
+Current Learning Rate: 4.1e-05
+Epoch 10, Train Loss: 0.0116383062209934, Train Accuracy: 0.9442432677395657
+Epoch 10, Validation Loss: 0.024560306454077363, Validation Accuracy: 0.8732642043303809
+Current Learning Rate: 4e-05
+Epoch 11, Train Loss: 0.009248738819733262, Train Accuracy: 0.948407629069367
+Epoch 11, Validation Loss: 0.02100607252214104, Validation Accuracy: 0.8741833219774398
+Current Learning Rate: 3.9000000000000006e-05
+Epoch 12, Train Loss: 0.008672848166897893, Train Accuracy: 0.9496731532230115
+Epoch 12, Validation Loss: 0.019534505205228925, Validation Accuracy: 0.8741833219774398
+Current Learning Rate: 3.8e-05
+Epoch 13, Train Loss: 0.007947085136547684, Train Accuracy: 0.9489673989215873
+Epoch 13, Validation Loss: 0.02420669363345951, Validation Accuracy: 0.8741833219774398
+Current Learning Rate: 3.7e-05
+Epoch 14, Train Loss: 0.007677544564940035, Train Accuracy: 0.949623645120558
+Epoch 14, Validation Loss: 0.020240366109646857, Validation Accuracy: 0.8741833219774398
+Current Learning Rate: 3.6e-05
+Epoch 15, Train Loss: 0.00754202101379633, Train Accuracy: 0.9504454925967069
+Epoch 15, Validation Loss: 0.014661007560789585, Validation Accuracy: 0.8741833219774398
+Current Learning Rate: 3.5e-05
+Epoch 16, Train Loss: 0.010301905642263591, Train Accuracy: 0.9515439112734483
+Epoch 16, Validation Loss: 0.036569345043972135, Validation Accuracy: 0.8732642043303809
+Current Learning Rate: 3.4000000000000007e-05
+Epoch 17, Train Loss: 0.01227995501831174, Train Accuracy: 0.9384166494439072
+Epoch 17, Validation Loss: 0.03239173430483788, Validation Accuracy: 0.872345086683322
+Current Learning Rate: 3.3e-05
+Epoch 18, Train Loss: 0.009090557345189154, Train Accuracy: 0.9462762058330659
+Epoch 18, Validation Loss: 0.028457109350711107, Validation Accuracy: 0.8741833219774398
+Early stopping triggered at epoch 18.
+Best Val Loss: 0.014661007560789585, Best Val Accuracy: 0.8741833219774398
+Test Loss: 0.019809054501820356
+Test Accuracy: 0.8874821858567988
+                 precision    recall  f1-score   support
+
+   <IP_ADDRESS>       0.74      1.00      0.85        56
+<EMAIL_ADDRESS>       1.00      1.00      1.00        56
+       <US_SSN>       0.77      1.00      0.87        91
+  <CREDIT_CARD>       1.00      1.00      1.00        43
+ <PHONE_NUMBER>       0.82      1.00      0.90        54
+        NON_PII       1.00      0.86      0.93       423
+
+       accuracy                           0.92       723
+      macro avg       0.89      0.98      0.92       723
+   weighted avg       0.94      0.92      0.92       723

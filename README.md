@@ -71,7 +71,3 @@ Each type of PII is generated using the fake library to ensure the variety and r
 
 7. **Integration with Existing Systems:**  
    Explore integrating this solution into existing data processing systems for seamless operation.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
